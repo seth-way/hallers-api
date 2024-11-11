@@ -1,0 +1,50 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment folder (update name if different)
+venv/
+.env/
+
+# Installed dependencies
+*.egg-info/
+*.eggs/
+*.whl
+
+# Environment variables file
+.env
+*.env.*
+
+# macOS system files
+.DS_Store
+
+# Editor-specific files (VS Code, PyCharm)
+.vscode/
+.idea/
+
+# Test coverage reports
+.coverage
+coverage/
+htmlcov/
+
+# Logs and debugging
+logs/
+*.log
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Python migrations (e.g., Alembic if used)
+migrations/
+
+# Uvicorn and FastAPI cache
+**/__pycache__/
+*.cache
+
+# Generated requirements files
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Pytest cache
+.pytest_cache/
