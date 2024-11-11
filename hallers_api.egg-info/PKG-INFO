@@ -1,5 +1,0 @@
-Metadata-Version: 2.1
-Name: hallers-api
-Version: 0.1
-Requires-Dist: fastapi
-Requires-Dist: uvicorn
